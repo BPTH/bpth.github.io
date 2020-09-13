@@ -1,2 +1,2 @@
 # bpth.github.io
-Website for self
+Personal Website based on Ethereal by HTML5 UP
